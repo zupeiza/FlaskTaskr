@@ -1,7 +1,7 @@
 easygui==0.97.4
 flask>=1.0.0
 itsdangerous==0.24
-Jinja2==2.8
+Jinja2>=2.10.1
 MarkupSafe==0.23
 PyPDF2==1.25.1
 reportlab==3.3.0
