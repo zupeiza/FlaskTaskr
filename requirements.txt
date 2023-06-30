@@ -3,6 +3,6 @@ flask>=1.0.0
 itsdangerous==0.24
 Jinja2>=2.10.1
 MarkupSafe==0.23
-PyPDF2==1.25.1
+PyPDF2==1.27.9
 reportlab==3.3.0
 werkzeug>=0.15.3
